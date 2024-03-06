@@ -1,0 +1,127 @@
+{
+    "charts": {},
+    "test": {},
+    "stable": {
+        "plex": {
+            "name": "plex",
+            "categories": [
+                "media"
+            ],
+            "app_readme": "<p>Plex Media Server</p>\n<p>This App is supplied by TrueCharts, for more information visit the manual: <a href=\"https://truecharts.org/charts/stable/plex\">https://truecharts.org/charts/stable/plex</a></p>\n<hr />\n<p>TrueCharts can only exist due to the incredible effort of our staff.\nPlease consider making a <a href=\"https://truecharts.org/sponsor\">donation</a> or contributing back to the project any way you can!</p>",
+            "location": "/home/runner/work/catalog/catalog/stable/plex",
+            "healthy": true,
+            "healthy_error": null,
+            "latest_version": "13.0.14",
+            "latest_app_version": "1.32.0.697",
+            "latest_human_version": "1.32.0.697_13.0.14",
+            "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/plex.png"
+        }
+    },
+    "incubator": {},
+    "dependency": {
+        "mongodb": {
+            "name": "mongodb",
+            "categories": [
+                "database"
+            ],
+            "app_readme": "<p>Fast, reliable, scalable, and easy to use open-source no-sql database system.</p>\n<p>This App is supplied by TrueCharts, for more information visit the manual: <a href=\"https://truecharts.org/charts/dependency/mongodb\">https://truecharts.org/charts/dependency/mongodb</a></p>\n<hr />\n<p>TrueCharts can only exist due to the incredible effort of our staff.\nPlease consider making a <a href=\"https://truecharts.org/sponsor\">donation</a> or contributing back to the project any way you can!</p>",
+            "location": "/home/runner/work/catalog/catalog/dependency/mongodb",
+            "healthy": true,
+            "healthy_error": null,
+            "latest_version": "6.0.20",
+            "latest_app_version": "6.0.5",
+            "latest_human_version": "6.0.5_6.0.20",
+            "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/mongodb.png"
+        },
+        "memcached": {
+            "name": "memcached",
+            "categories": [
+                "database",
+                "cache"
+            ],
+            "app_readme": "<p>Memcached is a memory-backed database caching solution</p>\n<p>This App is supplied by TrueCharts, for more information visit the manual: <a href=\"https://truecharts.org/charts/dependency/memcached\">https://truecharts.org/charts/dependency/memcached</a></p>\n<hr />\n<p>TrueCharts can only exist due to the incredible effort of our staff.\nPlease consider making a <a href=\"https://truecharts.org/sponsor\">donation</a> or contributing back to the project any way you can!</p>",
+            "location": "/home/runner/work/catalog/catalog/dependency/memcached",
+            "healthy": true,
+            "healthy_error": null,
+            "latest_version": "6.0.31",
+            "latest_app_version": "1.6.19",
+            "latest_human_version": "1.6.19_6.0.31",
+            "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/memcached.png"
+        },
+        "mariadb": {
+            "name": "mariadb",
+            "categories": [
+                "database"
+            ],
+            "app_readme": "<p>Fast, reliable, scalable, and easy to use open-source relational database system.</p>\n<p>This App is supplied by TrueCharts, for more information visit the manual: <a href=\"https://truecharts.org/charts/dependency/mariadb\">https://truecharts.org/charts/dependency/mariadb</a></p>\n<hr />\n<p>TrueCharts can only exist due to the incredible effort of our staff.\nPlease consider making a <a href=\"https://truecharts.org/sponsor\">donation</a> or contributing back to the project any way you can!</p>",
+            "location": "/home/runner/work/catalog/catalog/dependency/mariadb",
+            "healthy": true,
+            "healthy_error": null,
+            "latest_version": "7.0.19",
+            "latest_app_version": "10.11.2",
+            "latest_human_version": "10.11.2_7.0.19",
+            "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/mariadb.png"
+        },
+        "clickhouse": {
+            "name": "clickhouse",
+            "categories": [
+                "database"
+            ],
+            "app_readme": "<p>ClickHouse is a column-oriented database management system (DBMS) for online analytical processing of queries (OLAP).</p>\n<p>This App is supplied by TrueCharts, for more information visit the manual: <a href=\"https://truecharts.org/charts/dependency/clickhouse\">https://truecharts.org/charts/dependency/clickhouse</a></p>\n<hr />\n<p>TrueCharts can only exist due to the incredible effort of our staff.\nPlease consider making a <a href=\"https://truecharts.org/sponsor\">donation</a> or contributing back to the project any way you can!</p>",
+            "location": "/home/runner/work/catalog/catalog/dependency/clickhouse",
+            "healthy": true,
+            "healthy_error": null,
+            "latest_version": "5.0.19",
+            "latest_app_version": "23.4.1.194",
+            "latest_human_version": "23.4.1.194_5.0.19",
+            "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/clickhouse.png"
+        },
+        "solr": {
+            "name": "solr",
+            "categories": [
+                "search"
+            ],
+            "app_readme": "<p>Apache Solr</p>\n<p>This App is supplied by TrueCharts, for more information visit the manual: <a href=\"https://truecharts.org/charts/dependency/solr\">https://truecharts.org/charts/dependency/solr</a></p>\n<hr />\n<p>TrueCharts can only exist due to the incredible effort of our staff.\nPlease consider making a <a href=\"https://truecharts.org/sponsor\">donation</a> or contributing back to the project any way you can!</p>",
+            "location": "/home/runner/work/catalog/catalog/dependency/solr",
+            "healthy": true,
+            "healthy_error": null,
+            "latest_version": "4.0.19",
+            "latest_app_version": "9.2.0",
+            "latest_human_version": "9.2.0_4.0.19",
+            "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/solr.png"
+        },
+        "redis": {
+            "name": "redis",
+            "categories": [
+                "database",
+                "cache"
+            ],
+            "app_readme": "<p>Open source, advanced key-value store.</p>\n<p>This App is supplied by TrueCharts, for more information visit the manual: <a href=\"https://truecharts.org/charts/dependency/redis\">https://truecharts.org/charts/dependency/redis</a></p>\n<hr />\n<p>TrueCharts can only exist due to the incredible effort of our staff.\nPlease consider making a <a href=\"https://truecharts.org/sponsor\">donation</a> or contributing back to the project any way you can!</p>",
+            "location": "/home/runner/work/catalog/catalog/dependency/redis",
+            "healthy": true,
+            "healthy_error": null,
+            "latest_version": "6.0.36",
+            "latest_app_version": "7.0.11",
+            "latest_human_version": "7.0.11_6.0.36",
+            "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/redis.png"
+        }
+    },
+    "enterprise": {},
+    "dev": {
+        "testapp": {
+            "name": "testapp",
+            "categories": [
+                "media",
+                "test"
+            ],
+            "app_readme": "<p>testing app for truecharts</p>\n<p>This App is supplied by TrueCharts, for more information visit the manual: <a href=\"https://truecharts.org/charts/dev/testapp\">https://truecharts.org/charts/dev/testapp</a></p>\n<hr />\n<p>TrueCharts can only exist due to the incredible effort of our staff.\nPlease consider making a <a href=\"https://truecharts.org/sponsor\">donation</a> or contributing back to the project any way you can!</p>",
+            "location": "/home/runner/work/catalog/catalog/dev/testapp",
+            "healthy": true,
+            "healthy_error": null,
+            "latest_version": "0.0.1",
+            "latest_app_version": "0.20.2297",
+            "latest_human_version": "0.20.2297_0.0.1",
+            "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/jackett.png"
+        }
+    }
+}
